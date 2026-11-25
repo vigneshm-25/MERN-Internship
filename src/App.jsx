@@ -47,7 +47,7 @@ function App() {
       <nav className="navbar">
         <h2>Pulsework AI</h2>
         <input type="text" placeholder="Search..." />
-        <h4>Welcome, User</h4>
+        <h4>Welcome, Vignesh M</h4>
       </nav>
 
       <div className="main">
